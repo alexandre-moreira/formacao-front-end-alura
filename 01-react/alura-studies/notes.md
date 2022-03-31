@@ -7,6 +7,7 @@
     [x] Subir o projeto basico para o repositório remoto.
 
 # Aula 02 - Componentização
-    [] Criando um componente com: class components
-    [] Criar componente Botao
-    [] Criar componente Formulario
+    [x] Criando um componente com: class components
+    [x] Criar componente Botao
+    [x] Criar componente Formulario
+    [] Criar component Lista
