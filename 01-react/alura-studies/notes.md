@@ -1,8 +1,12 @@
 # Aula 01 - Criando o projeto
-    [] Configurar o ambiente, instalar node e git
-    [] Diferenciar npx de npm
-    [] Criar projeto com create-react-app com template typescript
-    [] Estrutura básica do projeto
-    [] Criar repositorio no git
-    [] Subir o projeto basico para o repositório remoto.
-# 
+    [x] Configurar o ambiente, instalar node e git
+    [x] Diferenciar npx de npm
+    [x] Criar projeto com create-react-app com template typescript
+    [x] Estrutura básica do projeto
+    [x] Criar repositorio no git
+    [x] Subir o projeto basico para o repositório remoto.
+
+# Aula 02 - Componentização
+    [] Criando um componente com: class components
+    [] Criar componente Botao
+    
