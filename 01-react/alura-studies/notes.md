@@ -10,4 +10,9 @@
     [x] Criando um componente com: class components
     [x] Criar componente Botao
     [x] Criar componente Formulario
-    [] Criar component Lista
+    [x] Criar component Lista
+    [x] Renderizar a lista com array, usando map
+
+# Aula 03 - Usando o CSS
+    [x] Instalando o sass
+    [x] Criação dos estilos botao, formulario e lista
