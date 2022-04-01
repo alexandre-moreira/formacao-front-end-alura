@@ -18,7 +18,9 @@
     [x] Criação dos estilos botao, formulario e lista
     [] Usando CSS Modules
 # Aula 03 - Conhecendo props
-    [] Refatorando a lista com props
-    [] Criar o cronometro
-    [] Estilizar cronometro
-    
+    [x] Refatorando a lista com props
+    [x] Criar o cronometro
+    [x] Estilizar cronometro
+    [x] Introduzindo estados(useState)
+    [] Controlando o formulário
+
