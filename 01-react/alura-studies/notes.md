@@ -16,3 +16,4 @@
 # Aula 03 - Usando o CSS
     [x] Instalando o sass
     [x] Criação dos estilos botao, formulario e lista
+    [] Usando CSS Modules
