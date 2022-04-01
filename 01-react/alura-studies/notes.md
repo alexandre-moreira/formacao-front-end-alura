@@ -17,3 +17,5 @@
     [x] Instalando o sass
     [x] Criação dos estilos botao, formulario e lista
     [] Usando CSS Modules
+# Aula 03 - Conhecendo props
+    [] Refatorando a lista com props
