@@ -19,3 +19,6 @@
     [] Usando CSS Modules
 # Aula 03 - Conhecendo props
     [] Refatorando a lista com props
+    [] Criar o cronometro
+    [] Estilizar cronometro
+    
