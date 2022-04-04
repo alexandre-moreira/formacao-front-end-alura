@@ -28,4 +28,8 @@
     [x] Atualizando a tarefa
 
 # Aula 06 - Selecionando um item
-    []
+    [x] Mostrando um item selecionado
+    [x] Tempo para segundo
+# Aula 07 - Finalizando a aplicação
+    [x] Oberservando mudanças
+    [] Reagindo ao estado
