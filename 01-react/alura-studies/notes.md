@@ -22,5 +22,7 @@
     [x] Criar o cronometro
     [x] Estilizar cronometro
     [x] Introduzindo estados(useState)
-    [] Controlando o formulário
+    [x] Controlando o formulário
+    [x] Adicionando uma tarefa
+    [x] Atualizando a tarefa
 
