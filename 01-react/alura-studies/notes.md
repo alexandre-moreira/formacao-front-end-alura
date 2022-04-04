@@ -36,3 +36,4 @@
     [x] Mostrando no relógio
     [x] Contagem regressiva
     [x] Finalizando tarefa
+    [x] Adicionar ícone check, na tarefa finalizada
