@@ -34,3 +34,4 @@
     [x] Observando mudanças
     [x] Reagindo ao estado(useEffect)
     [x] Mostrando no relógio
+    [] Contagem regressiva
