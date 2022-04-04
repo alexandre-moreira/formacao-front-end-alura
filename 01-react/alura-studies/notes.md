@@ -17,12 +17,15 @@
     [x] Instalando o sass
     [x] Criação dos estilos botao, formulario e lista
     [] Usando CSS Modules
-# Aula 03 - Conhecendo props
+# Aula 04 - Conhecendo props
     [x] Refatorando a lista com props
     [x] Criar o cronometro
     [x] Estilizar cronometro
     [x] Introduzindo estados(useState)
+# Aula 05 - State
     [x] Controlando o formulário
     [x] Adicionando uma tarefa
     [x] Atualizando a tarefa
 
+# Aula 06 - Selecionando um item
+    []
