@@ -35,3 +35,4 @@
     [x] Reagindo ao estado(useEffect)
     [x] Mostrando no relógio
     [x] Contagem regressiva
+    [x] Finalizando tarefa
