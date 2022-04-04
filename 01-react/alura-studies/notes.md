@@ -31,5 +31,6 @@
     [x] Mostrando um item selecionado
     [x] Tempo para segundo
 # Aula 07 - Finalizando a aplicação
-    [x] Oberservando mudanças
-    [] Reagindo ao estado
+    [x] Observando mudanças
+    [x] Reagindo ao estado(useEffect)
+    [x] Mostrando no relógio
