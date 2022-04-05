@@ -26,9 +26,9 @@
 
 # Aula 03 - Refatorações
   [x] Projeto da aula anterior
-  [] Refatoração
-  [] Herança
-  [] Boas práticas com CSS
+  [x] Refatoração
+  [x] Herança
+  [x] Boas práticas com CSS
   [] Media Query
   [] Faça como eu fiz
   [] Problemas de Perfornmance
