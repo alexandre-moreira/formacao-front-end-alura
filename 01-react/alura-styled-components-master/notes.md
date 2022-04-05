@@ -19,7 +19,11 @@
   [x] GlobalStyle
   [x] Reset CSS
   [x] Variáveis
-  [] Props
-  [] Utilizando Props
-  [] Faça como eu fiz
-  [] O que apredemos
+  [x] Props
+  [x] Utilizando Props
+  [x] Faça como eu fiz
+  [x] O que apredemos
+
+# Aula 03 - Refatorações
+# Aula 04 - Novo Item
+# Aula 05 - Tema
