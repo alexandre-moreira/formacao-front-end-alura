@@ -16,9 +16,9 @@
   [x] O que aprendemos
 # Aula 02 - Tópicos básicos
   [x] Projeto da aula anterior
-  [] GlobalStyle
-  [] Reset CSS
-  [] Variáveis
+  [x] GlobalStyle
+  [x] Reset CSS
+  [x] Variáveis
   [] Props
   [] Utilizando Props
   [] Faça como eu fiz
