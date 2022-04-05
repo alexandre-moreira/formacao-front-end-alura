@@ -30,8 +30,17 @@
   [x] Herança
   [x] Boas práticas com CSS
   [x] Media Query
-  [] Faça como eu fiz
-  [] Problemas de Perfornmance
-  [] O que aprendemos?
+  [x] Faça como eu fiz
+  [x] Problemas de Perfornmance
+  [x] O que aprendemos?
 # Aula 04 - Novo Item
+  [x] Projeto da aula anterior
+  [x] Extrato
+  [] Itens
+  [] Casos de uso
+  [] Ícones
+  [] Faça como eu fiz
+  [] O que aprendemos?
 # Aula 05 - Tema
+
+# Proximo Módulo -> Lidando com arquivos estáticos
