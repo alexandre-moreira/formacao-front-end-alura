@@ -25,5 +25,13 @@
   [x] O que apredemos
 
 # Aula 03 - Refatorações
+  [x] Projeto da aula anterior
+  [] Refatoração
+  [] Herança
+  [] Boas práticas com CSS
+  [] Media Query
+  [] Faça como eu fiz
+  [] Problemas de Perfornmance
+  [] O que aprendemos?
 # Aula 04 - Novo Item
 # Aula 05 - Tema
