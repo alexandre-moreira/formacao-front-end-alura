@@ -29,7 +29,7 @@
   [x] Refatoração
   [x] Herança
   [x] Boas práticas com CSS
-  [] Media Query
+  [x] Media Query
   [] Faça como eu fiz
   [] Problemas de Perfornmance
   [] O que aprendemos?
