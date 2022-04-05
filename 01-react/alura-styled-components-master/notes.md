@@ -38,9 +38,19 @@
   [x] Extrato
   [x] Itens
   [x] Casos de uso
-  [] Ícones
-  [] Faça como eu fiz
-  [] O que aprendemos?
+  [x] Ícones
+  [x] Faça como eu fiz
+  [x] O que aprendemos?
 # Aula 05 - Tema
+  [x] Projeto da aula anterior
+  [x] Temas
+  [x] Temas parte 2
+  [x] Troca de tema e setTema
+  [x] Problemas com tema
+  [x] Ícone do tema
+  [x] Faça como eu fiz
+  [x] o que aprendemos
+  [x] Projeto final
+  [x] Conclusão
 
-# Proximo Módulo -> Lidando com arquivos estáticos
+
