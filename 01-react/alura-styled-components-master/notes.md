@@ -36,8 +36,8 @@
 # Aula 04 - Novo Item
   [x] Projeto da aula anterior
   [x] Extrato
-  [] Itens
-  [] Casos de uso
+  [x] Itens
+  [x] Casos de uso
   [] Ícones
   [] Faça como eu fiz
   [] O que aprendemos?

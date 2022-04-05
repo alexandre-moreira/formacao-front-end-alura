@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Item from "../Item";
 
 const Items = styled.div`
   box-shadow: 4px 4px 20px 0px rgba(0,0,0,0.1);
@@ -13,5 +14,5 @@ const Items = styled.div`
 `;
 
 export default (props) => {
-  return <Items></Items>
+  return <Items><Item {...props}/></Items>
 }
