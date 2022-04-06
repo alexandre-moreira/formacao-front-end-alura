@@ -10,7 +10,6 @@
     [x] Sass com CSS Modules e TypeScript
     [x] Faça como eu fiz: Estilos em CSS Modules e Sass
     [x] O que aprendemos?
-
 # Aula 02 - Assets
     [x] Projeto da aula anterior
     [x] Tentando importar o svg
@@ -21,4 +20,16 @@
     [x] Para saber mais: Artigo utilizado em aula
     [x] Faça como eu fiz: Substituindo tag img e absolute import
     [x] O que aprendemos?
+# Aula 03 - Header e Buscador
+    [x] Projeto da aula anterior
+    [x] Adicionando fontes e normalize
+    [x] Para saber mais: @import-normalize
+    [x] Importar fontes externas
+    [] Criando o header
+    [] Criando o buscador
+    [] Faça como eu fiz
+# Aula 04 - Ordenação e Filtros
+# Aula 05 - Lista de itens
+# Aula 06 - Finalizando o projeto
+
 
