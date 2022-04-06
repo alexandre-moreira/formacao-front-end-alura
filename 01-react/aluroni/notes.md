@@ -25,7 +25,7 @@
     [x] Adicionando fontes e normalize
     [x] Para saber mais: @import-normalize
     [x] Importar fontes externas
-    [] Criando o header
+    [x] Criando o header
     [] Criando o buscador
     [] Faça como eu fiz
 # Aula 04 - Ordenação e Filtros
