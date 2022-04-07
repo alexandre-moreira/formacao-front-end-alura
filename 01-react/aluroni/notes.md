@@ -27,8 +27,8 @@
     [x] Importar fontes externas
     [x] Criando o header
     [x] Criando o buscador
-    [] Criando os filtros
-    [] Faça como eu fiz
+    [x] Criando os filtros
+    [x] Faça como eu fiz
 # Aula 04 - Ordenação e Filtros
 # Aula 05 - Lista de itens
 # Aula 06 - Finalizando o projeto
