@@ -6,20 +6,20 @@
 * Monte filtros para procurar por posts de maneira mais eficiente
 
 # Aula 01 - Router
- [] Apresentação
- [] Projeto inicial
- [] Início do problema
- [] React Router
- [] Rota exata
- [] Exibir uma rota apenas
- [] Faça como eu fiz
- [] O que aprendemos?
+ [x] Apresentação
+ [x] Projeto inicial
+ [x] Início do problema
+ [x] React Router
+ [x] Rota exata
+ [x] Exibir uma rota apenas
+ [x] Faça como eu fiz
+ [x] O que aprendemos?
 
 # Aula 02 - Criando componentes
-  [] Projeto da aula anterior
-  [] Erro 404
-  [] SPA WebTradicional
-  [] Qual a ordem de execução?
+  [x] Projeto da aula anterior
+  [x] Erro 404
+  [x] SPA WebTradicional
+  [x] Qual a ordem de execução?
   [] Criando NavBar
   [] Faça como eu fiz
   [] O que aprendemos?
