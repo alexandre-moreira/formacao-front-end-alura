@@ -20,13 +20,13 @@
   [x] Erro 404
   [x] SPA WebTradicional
   [x] Qual a ordem de execução?
-  [] Criando NavBar
-  [] Faça como eu fiz
-  [] O que aprendemos?
+  [x] Criando NavBar
+  [x] Faça como eu fiz
+  [x] O que aprendemos?
 
 # Aula 03 - Conectando com API
-  [] Projeto da aula anterior
-  [] Componente Link
+  [x] Projeto da aula anterior
+  [x] Componente Link
   [] Conexão com API
   [] Exibindo os posts
   [] Links de referências
@@ -43,14 +43,19 @@
   [] O que aprendemos?
 
 # Aula 05 - Rotas aninhadas
-  [] Projeto da aula anterior
-  [] Preparando o ambiente
-  [] Exibindo Categoria
-  [] Criando SubCategoria
-  [] Preparando o ambiente
-  [] Exibindo SubCategoria
-  [] Nested routes
-  [] Faça como eu fiz
-  [] Projeto final do curso
-  [] O que aprendemos?
-  [] Conclusão
+    [] Projeto da aula anterior
+    [] Preparando o ambiente
+    [] Exibindo Categoria
+    [] Criando SubCategoria
+    [] Preparando o ambiente
+    [] Exibindo SubCategoria
+    [] Nested routes
+    [] Faça como eu fiz
+    [] Projeto final do curso
+    [] O que aprendemos?
+    [] Conclusão
+
+  # Points
+    [] Cliente Internacional
+    [] Ingles Avançado
+    [] Modelo Flexivel home hibrido presencial
