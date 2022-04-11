@@ -5,7 +5,6 @@ import { useState } from 'react';
 import Filtros from './Filtros';
 import Itens from './Itens';
 import Ordenador from './Ordenador';
-import Menu from 'components/Menu';
 
 export default function Cardapio() {
   const [busca, setBusca] = useState('');
@@ -13,12 +12,6 @@ export default function Cardapio() {
   const [ordenador, setOrdenador] = useState('');
   return (
     <main>
-      <Menu />
-      <header className={styles.header}>
-        <div className={styles.header__text}>
-          A casa do código e da massa
-        </div>
-      </header>
       <section className={styles.cardapio}>
         <h3 className={styles.cardapio__titulo}>Cardápio</h3>
         <Buscador busca={busca} setBusca={setBusca} />
