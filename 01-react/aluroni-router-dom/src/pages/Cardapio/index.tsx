@@ -3,8 +3,8 @@ import { ReactComponent as Logo } from 'assets/logo.svg';
 import Buscador from './Buscador';
 import { useState } from 'react';
 import Filtros from './Filtros';
-import Ordenador from './Ordenador';
 import Itens from './Itens';
+import Ordenador from './Ordenador';
 
 export default function Cardapio() {
   const [busca, setBusca] = useState('');
