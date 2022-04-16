@@ -1,14 +1,9 @@
-function MyApp({ Component, pageProps }) {
+import { Provider } from '@skynexui/components'
+
+export default function App({ Component, pageProps }) {
   return (
-    <> 
-      <style>{`
-        * {
-          font-family: sans-serif; 
-        }
-      `}</style>
+    <Provider>
       <Component {...pageProps} />
-    </>
+    </Provider>
   )
 }
-
-export default MyApp;
